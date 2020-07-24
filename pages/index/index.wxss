@@ -24,8 +24,8 @@
 }
 .bigTitle{
     font-size: 52rpx;
-    padding-left:  30rpx;
-    padding-right: 30rpx;
+    /* padding-left:  30rpx;
+    padding-right: 30rpx; */
     position: center;
 }
 .title{

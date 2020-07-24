@@ -1,6 +1,6 @@
 {
   "pages":[
-    "pages/index",
+    "pages/index/index",
     "pages/logs/logs",
     "pages/run/run",
     "pages/animation/animation"
@@ -10,5 +10,7 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "WeChat",
     "navigationBarTextStyle":"black"
-  }
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
 }
